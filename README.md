@@ -1,4 +1,4 @@
-# Global-Terrorism-Analysis-
+# Global-Terrorism-Analysis
 # Overview
 
 ## Problem statement
